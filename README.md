@@ -6,8 +6,8 @@ About Me
 I am a student of data science with a passion for exploring AI world. I am also interested in getting hands on new things.
 
 Skills
-[Python]
-[SQL]
+[Python],
+[SQL],
 [Data visualisation]
 
 Projects
